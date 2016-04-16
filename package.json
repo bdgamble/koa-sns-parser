@@ -1,0 +1,30 @@
+{
+  "name": "koa-sns-parser",
+  "version": "1.0.0",
+  "description": "SNS parser middleware for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdgamble/koa-sns-parser.git"
+  },
+  "keywords": [
+    "koa",
+    "sns",
+    "middleware"
+  ],
+  "author": "Bryan Gamble (bryan.d.gamble@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdgamble/koa-sns-parser/issues"
+  },
+  "homepage": "https://github.com/bdgamble/koa-sns-parser#readme",
+  "dependencies": {
+    "http-errors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.7.0"
+  }
+}
